@@ -1,2 +1,2 @@
 # pythonProjects
-This repository contains source code of my various python projects
+This repository contains source code of various python projects
